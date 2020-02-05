@@ -1,4 +1,4 @@
-# Storm
+# Storm Quest
 
 >Weapon (longbow), rare (requires attunement by a person who created this bow.)
 >
