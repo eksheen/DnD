@@ -1,6 +1,7 @@
 # Storm Quest
 
-> Storm:
+> Storm
+>
 >Weapon (longbow), rare (requires attunement by a person who created this bow.)
 >
 >This bow manipulates the air around the arrow to make it more accurate.
