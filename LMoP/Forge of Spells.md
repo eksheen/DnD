@@ -8,3 +8,4 @@ How to use the forge:
 1. Obtain elementium
 2. Create an elementium weapon blank
 3. Ask Hephaestus to forge the weapon blank into a magical object
+
