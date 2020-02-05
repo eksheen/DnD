@@ -18,18 +18,18 @@
 
 ## Process:
  1. Find recipe 
- - Craft bow at any point with desired wood.
-  - Woodworking check. DC 17
-		- Requires Wood working tools
-		- Requires wood
-		- A Fail results in loss of the piece of wood. Can make the check once per day per piece of wood
- - Imbue bow with essence of an air elemental.
+ 2. Craft bow at any point with desired wood.
+  	- Woodworking check. DC 17
+	- Requires Wood working tools
+	- Requires wood
+	- A Fail results in loss of the piece of wood. Can make the check once per day per piece of wood
+ 3. Imbue bow with essence of an air elemental.
 	- Must spend 10GP to perform checks
 	- Arcana Check + Proficiency bonus == DC 24 allowed once per day
 	- Must make 25 successful arcana checks
 	- Crafting check + Proficiency bonus == DC 8  
 	- A fail on a crafting check sets back you back one arcana check
- - String bow with dragon sinew.
+ 4. String bow with dragon sinew.
 	- Must spend 5GP to perform checks
 	- Arcana Check + Proficiency bonus == DC 20 allowed once per day
 	- Must make 10 successful arcana checks
