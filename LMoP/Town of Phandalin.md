@@ -40,7 +40,7 @@
 > They don't want trouble with Halia Thornton who, runs it.
 > *See the Phandalin Miner's Exchange Section*
 
- ### Barthen's Provisions
+### Barthen's Provisions
 **Description:** Ordinary trading post that is open from sunup to sundown. Barhten's 
 does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's worth. 
 
@@ -62,12 +62,12 @@ the brothers to return "any day now" to resupply. (What Barthen doesn't know
 is that Tharden is dead and Nundro is a prisoner in the mine)
 
 **Barhten's News:** If the characters ask Barthen how business is going, the
-shopkeeper tells them that the Redbrands are making it hard on everyone, shaking down 
-local businesses and flouting the townmaster's authority. If the characters seem of a 
-mind to do something about it, he tells them that the Redbrands frequent the Sleeping 
-Giant tap house.
+shopkeeper tells them that the Redbrands are making it hard on everyone, shaking 
+down local businesses and flouting the townmaster's authority. If the characters 
+seem of a mind to do something about it, he tells them that the Redbrands frequent 
+the Sleeping Giant tap house.
 
- ### Edermath Orchard
+### Edermath Orchard
 
 **Description:** Apple Orchard
 
@@ -87,7 +87,7 @@ watchtower of an ancient magical empire known as Netheril, and he worries that
 dangerous magic might be dormant there. If the party pursues this quest, see "Old 
 Owl Well" (page 29).
 
- ### Lionshield Coster
+### Lionshield Coster
 > Hanging above the front door of this modest trading post is
 > a sign shaped like a wooden shield with a blue lion painted
 > on it.
@@ -108,9 +108,9 @@ sell weapons to anyone she thinks might be a threat to the town. Among those wit
 whom she refuses to do business are the Redbrands. She warns the characters that the 
 ruffians are trouble and advises them to avoid the Sleeping Giant tap house. 
 
- ### Phandalin Miner's Exchange
+### Phandalin Miner's Exchange
  
- **Description:**
+**Description:**
 The Miner's Exchange is a trading post where local miners have their valuable finds 
 weighed, measured, and paid out. In the absence of any local lord or authority,
 the exchange also serves as an unofficial records office, registering claims to 
@@ -142,12 +142,15 @@ quarters.
 A DC 15 wisdom check indicates she has ulterior motives for wanting the Redbrand 
 leader dead.
 
+### Alderleaf Farm
 
- ### Alderleaf Farm
+**Description:**
+
+**Owner:** Qelline Alderleaf<br/>
+
+### Shrine of Luck
  
- ### Shrine of Luck
- 
- ### The Sleeping Giant
+### The Sleeping Giant
  
  ### Townmaster's Hall
  
