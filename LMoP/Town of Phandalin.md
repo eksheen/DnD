@@ -200,23 +200,39 @@ healing as payment for their efforts. If the party pursues this quest, see
 > Phandalin's main street. It is frequented by Redbrand thugs and operated by a  
 > surly female dwarf named Grista.
 
-**IF** (Adventurer's got to the Sleeping Giant) {<br/>
+**IF** (Adventurer's got to the Sleeping Giant) <br/>
 > The Sleeping Giant is a ramshackle taproom at the east end of town. Four human 
 > ruffians linger on the covered porch, perched on empty ale barrels or leaning
 > against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on 
 > you as you approach. One of the thugs spits on the ground. "Well, well," he 
 > snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
 > here to bark at us?"
-<br/>}
 
-**IF** (Adventurer's take too long) {<br/>
+**IF** (Adventurer's take too long) <br/>
 > The Sleeping Giant is a ramshackle taproom at the east end of town. Four human 
 > ruffians linger on the covered porch, perched on empty ale barrels or leaning 
 > against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on 
 > you as you approach. One of the thugs spits on the ground. "Well, well," he 
 > snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
 > here to bark at us?"
-<br/>}
+
+
+**Description:**<br/>
+Continue the insults and baiting as long as you like. The Redbrands attack in a round or two if the characters
+don't. Neither side is surprised, because it's obvious that a fight is brewing.
+The group consists of four Redbrand ruffians. If three of them are defeated, the last one flees toward Tresendar Manor.
+
+
+**IF** (A Redbrand is captured)<br/>
+Redbrands who are captured or charmed by the characters can impart useful
+information. (See the "What the Redbrands Know" sidebar on page 20.) Townmaster 
+Harbin Wester won't want to keep Redbrand prisoners until he knows the whole gang 
+has been defeated, but the characters can easily persuade or intimidate him into 
+locking up any prisoners they capture for at least a few days. If the characters 
+kill the ruffians, most members of the town are grateful. One exception is the town 
+master, who fears Redbrand retaliation. Harbin doesn't punish the characters but 
+warns them not to cause trouble.
+
 
 Go To &rightarrow; Redbrand Ruffians encounter
 
