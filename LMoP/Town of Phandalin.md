@@ -35,20 +35,31 @@ Townspeople in the common room:
 > *See the Phandalin Miner's Exchange Section*
 
  ### Barthen's Provisions
-Description: Ordinary trading post that is open from sunup to sundown. Barhten's 
+**Description:** Ordinary trading post that is open from sunup to sundown. Barhten's 
 does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's worth. 
 
-Owner: Elmar Barthen
+**Owner:** Elmar Barthen
 > A lean and balding human male shopkeeper of fifty years with a kindly
 > manner. He employs a couple young clerks, Ander and Thistle. THey help
 > load and unload wagons, and who wait oncustomers when Barthen isn't around
 
-What he knows:
- IF (Someone mentions Gundren Rockseekers capture) {
+**What he knows:**
+
+- IF (Someone mentions Gundren Rockseekers capture) {
   Barthen is saddened by the news and encourages the party to find and rescue the
   dwarf. He considers Gundren a friend and was excited by talk of discovering the
   lost mine of the Phandelver's Pact in the nearby hills.
  }
+- Barthen also mentions that two or more Rockseeker brothers, Nundro and Tharden,
+are camped somewhere outside town. Barthen hasn't seen them in a tendayand expects
+the brothers to return "any day now" to resupply. (What Barthen doesn't know
+is that Tharden is dead and Nundro is a prisoner in the mine)
+
+**Barhten's News:** If the characters ask Barthen how business is going, the
+shopkeeper tells them that the Redbrands are making it hard on everyone, shaking down 
+local businesses and flouting the townmaster's authority. If the characters seem of a 
+mind to do something about it, he tells them that the Redbrands frequent the Sleeping 
+Giant tap house.
 
  ### Edermath Orchard
  
