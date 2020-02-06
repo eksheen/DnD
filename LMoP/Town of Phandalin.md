@@ -54,7 +54,7 @@ does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's wor
 - **IF** (Someone mentions Gundren Rockseekers capture) {<br/>
   Barthen is saddened by the news and encourages the party to find and rescue the
   dwarf. He considers Gundren a friend and was excited by talk of discovering the
-  lost mine of the Phandelver's Pact in the nearby hills.
+  lost mine of the Phandelver's Pact in the nearby hills.<br/>
  }
 - Barthen also mentions that two or more Rockseeker brothers, Nundro and Tharden,
 are camped somewhere outside town. Barthen hasn't seen them in a tendayand expects
@@ -77,9 +77,21 @@ well over a hundred years old, Daran is a fighter who served as a marshal and he
 for many years in the lands of the Dragon Coast, far to the southeast.
 Upon retiring, he returned to the Neverwinter region, his original home.
 
+**Quest: Old Owl Trouble.**<br/>
+Daran has heard stories from prospectors in the hills northeast of Phandalin that 
+someone is digging around in the ruins known as Old Owl Wel!. More disturbingly, 
+several prospectors have reported being chased from the area by undead. He asks the 
+characters to visit the ruins, a couple days march northeast of Phandalin, and find 
+out who's there and what they're up to. Daran knows that the ruins are an old 
+watchtower of an ancient magical empire known as Netheril, and he worries that 
+dangerous magic might be dormant there. If the party pursues this quest, see "Old 
+Owl Well" (page 29).
 
  ### Lionshield Coster
- 
+> Hanging above the front door of this modest trading post is
+> a sign shaped like a wooden shield with a blue lion painted
+> on it.
+
  ### Phandalin Miner's Exchange
  
  ### Alderleaf Farm
