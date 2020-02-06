@@ -2,14 +2,15 @@
 
 ## Locations in Phandalin
 - [The Stone Hill Inn](#The-Stonehill-Inn)
-- [Barthen's Provisions](#Barthen's-Provisions)
+- [Barthen's Provisions](#Barthens-Provisions)
 - [Edermath Orchard](#Edermath-Orchard)
 - [Lionshield Coster](#Lionshield-Coster)
-- [Phandalin's Miner Exhange](#Phandalin's-Miner-Exchange)
+- [Phandalin Miner's Exhange](#Phandalin-Miners-Exchange)
 - [Alderleaf Farm](#Alderleaf-Farm)
-- [Heading](#heading-2)
-- [Heading](#heading-2)
-
+- [Shrine of Luck](#Shrine-of-Luck)
+- [The Sleeping Giant](#The-Sleeping-Giant)
+- [Townmasters Hall](#Townmasters-Hall)
+- [Tresendar Manor](#Tresendar-Manor)
 
 
 ### The Stonehill Inn
@@ -51,7 +52,7 @@
 > They don't want trouble with Halia Thornton who, runs it.
 > *See the Phandalin Miner's Exchange Section*
 
-### Barthen's Provisions
+### Barthens Provisions
 **Description:**<br/>
 Ordinary trading post that is open from sunup to sundown. Barhten's 
 does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's worth. 
@@ -123,7 +124,7 @@ sell weapons to anyone she thinks might be a threat to the town. Among those wit
 whom she refuses to do business are the Redbrands. She warns the characters that the 
 ruffians are trouble and advises them to avoid the Sleeping Giant tap house. 
 
-### Phandalin Miner's Exchange
+### Phandalin Miners Exchange
  
 **Description:**<br/>
 The Miner's Exchange is a trading post where local miners have their valuable finds 
@@ -247,7 +248,7 @@ warns them not to cause trouble.
 
 Go To &rightarrow; Redbrand Ruffians encounter
 
-### Townmaster's Hall
+### Townmasters Hall
 
 **Description:**
 > The townmaster's hall has sturdy stone walls, a pitched wooden roof, and a 
