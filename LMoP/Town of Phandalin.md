@@ -1,6 +1,18 @@
 # Phandalin
 
 ## Locations in Phandalin
+- [Heading](#The Stonehill Inn)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+
+
+
 ### The Stonehill Inn
 > In the In the center of town stands a large, newly
 > built roadhouse of fieldstone and rough-hewn timbers.
