@@ -92,6 +92,14 @@ Owl Well" (page 29).
 > a sign shaped like a wooden shield with a blue lion painted
 > on it.
 
+**Description:** This building is owned by the Lionshields, a merchant company based 
+in the city of Yartar, over a hundred miles to the east. They ship finished goods to 
+Phandalin and other small settlements throughout the region, but this outpost has 
+been hard hit by banditry. The most recent Lionshield caravan due in Phandalin never 
+arrived. (It was attacked and its cargo captured by the Cragmaw goblins.)
+
+**Owner:**
+
  ### Phandalin Miner's Exchange
  
  ### Alderleaf Farm
