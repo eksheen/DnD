@@ -1,7 +1,7 @@
 # Phandalin
 
 ## Locations in Phandalin
-- [Heading](### The Stonehill Inn)
+- [Heading](#The-Stonehill-Inn)
   * [Sub-heading](#sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
