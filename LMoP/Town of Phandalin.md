@@ -8,13 +8,18 @@
 > of them eyeing you with curiosity.
 
 **Townspeople in the common room:**
+
 **Narth, the old farmer**
+
 > Sister Garaele, who oversees the Shrine of Luck, recently left town for a few days,
 > then returned wounded and exhausted.
 > *See the shrine of luck section*
+
 **Elsa a gossipy barmaid**
+
 > Daran Edermath, the orchard keeper, is a former adventurer.
 > *See the Edermath Orchard section*
+
 **Lanar, a miner**
 > Orc raiders have been seen on the east end of Triboar trail.
 > The townmaster is looking for someone to run them off.
