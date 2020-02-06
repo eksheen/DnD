@@ -41,7 +41,8 @@
 > *See the Phandalin Miner's Exchange Section*
 
 ### Barthen's Provisions
-**Description:** Ordinary trading post that is open from sunup to sundown. Barhten's 
+**Description:**<br/>
+Ordinary trading post that is open from sunup to sundown. Barhten's 
 does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's worth. 
 
 **Owner:** Elmar Barthen
@@ -61,7 +62,8 @@ are camped somewhere outside town. Barthen hasn't seen them in a tendayand expec
 the brothers to return "any day now" to resupply. (What Barthen doesn't know
 is that Tharden is dead and Nundro is a prisoner in the mine)
 
-**Barhten's News:** If the characters ask Barthen how business is going, the
+**Barhten's News:**<br/>
+If the characters ask Barthen how business is going, the
 shopkeeper tells them that the Redbrands are making it hard on everyone, shaking 
 down local businesses and flouting the townmaster's authority. If the characters 
 seem of a mind to do something about it, he tells them that the Redbrands frequent 
@@ -71,7 +73,8 @@ the Sleeping Giant tap house.
 
 **Description:** Apple Orchard
 
-**Owner:** Daran Edermath is a retired adventurer who lives in a
+**Owner:**<br/>
+Daran Edermath is a retired adventurer who lives in a
 tidy little cottage beside an apple orchard. A fit, silver- haired half-elf 
 well over a hundred years old, Daran is a fighter who served as a marshal and herald 
 for many years in the lands of the Dragon Coast, far to the southeast.
@@ -92,13 +95,14 @@ Owl Well" (page 29).
 > a sign shaped like a wooden shield with a blue lion painted
 > on it.
 
-**Description:** This building is owned by the Lionshields, a merchant company based 
+**Description:**<br/>
+This building is owned by the Lionshields, a merchant company based 
 in the city of Yartar, over a hundred miles to the east. They ship finished goods to 
 Phandalin and other small settlements throughout the region, but this outpost has 
 been hard hit by banditry. The most recent Lionshield caravan due in Phandalin never 
 arrived. (It was attacked and its cargo captured by the Cragmaw goblins.)
 
-**Owner:** Linene Graywind
+**Owner:** Linene Graywind<br/>
 The master of the Phandalin post is a sharp-tongued human woman of thirty-five named 
 Linene Graywind. She knows that bandits have raided Lionshield caravans, but she 
 doesn't know who is responsible. In a back room, Linene keeps a supply of armor and 
@@ -110,7 +114,7 @@ ruffians are trouble and advises them to avoid the Sleeping Giant tap house.
 
 ### Phandalin Miner's Exchange
  
-**Description:**
+**Description:**<br/>
 The Miner's Exchange is a trading post where local miners have their valuable finds 
 weighed, measured, and paid out. In the absence of any local lord or authority,
 the exchange also serves as an unofficial records office, registering claims to 
@@ -118,7 +122,7 @@ various streams and excavations around the area. There isn't any real gold rush 
 Phandalin, but enough wealth is hidden in the nearby streams and valleys to support 
 a good number of independent prospectors.
 
-**Owner:** Halia Thornton
+**Owner:** Halia Thornton<br/>
 The guildmaster is an ambitious and calculating human woman named Halia Thornton.
 In her attempts to establish the Miner's Exchange as the closest thing the town has 
 to a governing authority, she acts as more than a simple merchant. She is also an 
