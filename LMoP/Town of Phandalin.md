@@ -156,7 +156,7 @@ seems to know everything that goes on in town. She is a kind host, and is willin
 let the characters stay in her hayloft if they don't want to stay at the Stonehill 
 Inn.
 
-**Quelline's Son Carp:**
+**Quelline's Son Carp:**<br/>
 Carp, is a spirited and precocious halfling lad of ten years. He is enchanted by the 
 idea of being an adventurer and says:
 > I was playing in the woods near Tresendar Manor when he found a secret tunnel in a 
@@ -166,7 +166,7 @@ idea of being an adventurer and says:
 > the characters to the tunnel or provide them with directions to the location. The 
 > tunnel leads to area 8in the Redbrand hideout.
 
-**Quest: Reidoth the Druid**
+**Quest: Reidoth the Druid**<br/>
 Qelline is a longtime friend of a druid named Reidoth. If she figures out that the 
 characters are looking for specific sites in the area, such as Cragmaw Castle or 
 Wave Echo Cave, she suggests that they visit Reidoth and ask for his help, "since 
@@ -177,10 +177,80 @@ she provides directions so the characters can easily find the place. If the part
 pursues this quest, see "Ruins of Thundertree" (page 30).
 
 ### Shrine of Luck
- 
+
+**Description:**<br/>
+A shrine of luck dedicated to Tymora, the goddess luck and good fortune.
+
+**Quest: The Banshee's Bargain**<br/>
+Recently, Garaele's superiors asked her to undertake a delicate mission. They 
+wanted her to persuade a banshee named Agatha to answer a question about a
+spellbook. Garaele sought out Agatha in her lair, but the creature did not appear 
+for her. Garaele desires an intermediary to bring Agatha a suitable gift, a jeweled 
+silver comb, and persuade the creature to tell what she knows about the location of
+a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes 
+that a character who flatters Agatha's vanity might be able to trade the comb for an 
+answer. She offers the quest to the characters and offers them three potions of 
+healing as payment for their efforts. If the party pursues this quest, see 
+"Conyberry and Agatha's Lair" (page 28).
+
 ### The Sleeping Giant
- 
- ### Townmaster's Hall
- 
- ### Tresnedar Manor
+
+**Description:**<br/>
+> This rundown tap house is a dirty, dangerous watering hole at the end of 
+> Phandalin's main street. It is frequented by Redbrand thugs and operated by a  
+> surly female dwarf named Grista.
+
+**IF** (Adventurer's got to the Sleeping Giant) {<br/>
+> The Sleeping Giant is a ramshackle taproom at the east end of town. Four human 
+> ruffians linger on the covered porch, perched on empty ale barrels or leaning
+> against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on 
+> you as you approach. One of the thugs spits on the ground. "Well, well," he 
+> snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
+> here to bark at us?"
+<br/>}
+
+
+
+
+The Sleeping Giant is a ramshackle taproom at the east end
+of town. Four human ruffians linger on the covered porch, perched on empty ale barrels or leaning against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on you as you approach.
+One of the thugs spits on the ground. "Well, well," he snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come here to bark at us?"
+
+
+
+Go To &rightarrow; Redbrand Ruffians encounter
+
+### Townmaster's Hall
+
+**Description:**
+> The townmaster's hall has sturdy stone walls, a pitched wooden roof, and a 
+> belltower at the back. Posted on a board next to the front door is a notice 
+> written in Common. It reads: "REWARD-Orcs near Wyvern Tor! Those of a mind to face 
+> the orc menace should inquire within." The notice bears the town's seal and an 
+> indecipherable signature.
+
+Phandalin has no functioning government, but the townsfolk elect someone to serve as 
+town master each year. The townmaster serves as a judge in minor disputes and keeps 
+any records that need to be kept. The current town master is a male human banker 
+named Harbin Wester-a fat, pompous old fool. Completely intimidated by the 
+Redbrands, he claims that they're "just a mercenary guild, and not all that much 
+trouble, really." The townmaster's hall has a small but serviceable jail in the 
+cellar. The jail consists of two cells, and Harbin carries keys to the cell doors.
+
+**Quest: Orc Trouble**<br/>
+Harbin is looking for someone to head east on the Triboar Trail, where travelers have reported trouble with a band of orcs near Wyvern Tor. He offers 100 gp to any group that can take care of the problem. If the party pursues this quest, see "Wyvern Tor" (page 35).
+
+**Quest: Finding Cragmaw Castle**<br/>
+After resting at the Stonehill Inn, Sildar Hallwinter establishes himself at the townmaster's hall. As an agent of the Lords' Alliance, his goal is to bring law and order to Phandalin. As such, he wants to find the lost mine of Wave Echo Cave and help the Rockseeker brothers put it back into production, believing that bringing prosperity to the region will help civilize the town.
+Sildar also encourages the characters to keep up the pressure on the Cragmaw goblins. He offers the party
+a 500 gp reward if they can locate Cragmaw Castle and defeat or drive off the tribe's chieftain. Sildar suggests the party might find the castle by searching the lands around the Triboar Trail for more raiding parties (see "Wilderness Encounters" in the "Triboar Trail" section of part 3).
+
+**Quest: Finding Iarno**<br/>
+After questioning several locals, Sildar learns that larno Albrek, a fellow member of the Lords' Alliance, disappeared while exploring the area around Tresendar Manor about two months ago, shortly after arriving in Phandalin. Sildar asks the characters to investigate the manor and the surrounding area to find and bring back larno-or what's left of him, if something killed him. Sildar describes larno as "a short, dark- bearded human wizard in his thirties."
+Unknown to Sildar, larno created the Redbrands, installed himself as their leader, and took the alias Glasstaff to conceal his identity. (The Redbrands call him that because he carries a glass staff.) Once he learns the truth about larno, Sildar expresses a desire to have the wizard captured and transported to Neverwinter to face the judgment of a higher authority. Regardless of Iarno's fate, Sildar rewards the party with 200 gp for eliminating the Redbrand threat.
+
+
+
+
+### Tresnedar Manor
 Go To &rightarrow; Redbrand Ruffians encounter
