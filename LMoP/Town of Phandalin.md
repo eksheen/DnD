@@ -68,7 +68,16 @@ mind to do something about it, he tells them that the Redbrands frequent the Sle
 Giant tap house.
 
  ### Edermath Orchard
- 
+
+**Description:** Apple Orchard
+
+**Owner:** Daran Edermath is a retired adventurer who lives in a
+tidy little cottage beside an apple orchard. A fit, silver- haired half-elf 
+well over a hundred years old, Daran is a fighter who served as a marshal and herald 
+for many years in the lands of the Dragon Coast, far to the southeast.
+Upon retiring, he returned to the Neverwinter region, his original home.
+
+
  ### Lionshield Coster
  
  ### Phandalin Miner's Exchange
