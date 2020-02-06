@@ -51,4 +51,4 @@ Townspeople in the common room:
  ### Townmaster's Hall
  
  ### Tresnedar Manor
-a
+&rightarrow; Go To Redbrand Ruffians encounter
