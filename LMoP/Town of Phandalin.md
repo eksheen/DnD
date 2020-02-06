@@ -207,16 +207,18 @@ healing as payment for their efforts. If the party pursues this quest, see
 > you as you approach. One of the thugs spits on the ground. "Well, well," he 
 > snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
 > here to bark at us?"
+
 <br/>}
 
+**IF** (Adventurer's take too long) {<br/>
+> The Sleeping Giant is a ramshackle taproom at the east end of town. Four human 
+> ruffians linger on the covered porch, perched on empty ale barrels or leaning 
+> against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on 
+> you as you approach. One of the thugs spits on the ground. "Well, well," he 
+> snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
+> here to bark at us?"
 
-
-
-The Sleeping Giant is a ramshackle taproom at the east end
-of town. Four human ruffians linger on the covered porch, perched on empty ale barrels or leaning against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on you as you approach.
-One of the thugs spits on the ground. "Well, well," he snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come here to bark at us?"
-
-
+<br/>}
 
 Go To &rightarrow; Redbrand Ruffians encounter
 
