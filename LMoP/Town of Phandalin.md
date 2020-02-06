@@ -73,8 +73,8 @@ the Sleeping Giant tap house.
 
 **Description:** Apple Orchard
 
-**Owner:**<br/>
-Daran Edermath is a retired adventurer who lives in a
+**Owner:** Daran Edermath<br/> 
+Is a retired adventurer who lives in a
 tidy little cottage beside an apple orchard. A fit, silver- haired half-elf 
 well over a hundred years old, Daran is a fighter who served as a marshal and herald 
 for many years in the lands of the Dragon Coast, far to the southeast.
