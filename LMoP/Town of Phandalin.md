@@ -207,7 +207,6 @@ healing as payment for their efforts. If the party pursues this quest, see
 > you as you approach. One of the thugs spits on the ground. "Well, well," he 
 > snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
 > here to bark at us?"
-
 <br/>}
 
 **IF** (Adventurer's take too long) {<br/>
@@ -217,7 +216,6 @@ healing as payment for their efforts. If the party pursues this quest, see
 > you as you approach. One of the thugs spits on the ground. "Well, well," he 
 > snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come 
 > here to bark at us?"
-
 <br/>}
 
 Go To &rightarrow; Redbrand Ruffians encounter
