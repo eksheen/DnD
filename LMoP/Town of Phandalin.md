@@ -35,7 +35,14 @@ Townspeople in the common room:
 > *See the Phandalin Miner's Exchange Section*
 
  ### Barthen's Provisions
- 
+Description: Ordinary trading post that is open from sunup to sundown. Barhten's 
+does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's worth. 
+
+Owner: Elmar barhten
+> A lean and balding human male shopkeeper of fifty years with a kindly
+> manner. He employs a couple young clerks, Ander and Thistle. THey help
+> load and unload wagons, and who wait oncustomers when Barthen isn't around
+
  ### Edermath Orchard
  
  ### Lionshield Coster
