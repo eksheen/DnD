@@ -2,11 +2,11 @@
 
 ## Locations in Phandalin
 - [The Stone Hill Inn](#The-Stonehill-Inn)
+- [Barthen's Provisions](#Barthen's-Provisions)
 - [Edermath Orchard](#Edermath-Orchard)
-- [Heading](#heading-2)
-- [Heading](#heading-2)
-- [Heading](#heading-2)
-- [Heading](#heading-2)
+- [Lionshield Coster](#Lionshield-Coster)
+- [Phandalin's Miner Exhange](#Phandalin's-Miner-Exchange)
+- [Alderleaf Farm](#Alderleaf-Farm)
 - [Heading](#heading-2)
 - [Heading](#heading-2)
 
