@@ -1,12 +1,14 @@
 # Phandalin
 
 ## Locations in Phandalin
-- [Heading](#The-Stonehill-Inn)
-  * [Sub-heading](#sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
+- [The Stone Hill Inn](#The-Stonehill-Inn)
+- [Edermath Orchard](#Edermath-Orchard)
 - [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
+- [Heading](#heading-2)
+- [Heading](#heading-2)
+- [Heading](#heading-2)
+- [Heading](#heading-2)
+- [Heading](#heading-2)
 
 
 
