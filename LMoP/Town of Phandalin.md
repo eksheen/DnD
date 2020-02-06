@@ -51,8 +51,7 @@ does not stock weapons or armor. Adventurer's can buy any gear up to 25 GP's wor
 
 **What he knows:**
 
-**IF** (Someone mentions Gundren Rockseekers capture) 
-{
+- **IF** (Someone mentions Gundren Rockseekers capture) {<br/>
   Barthen is saddened by the news and encourages the party to find and rescue the
   dwarf. He considers Gundren a friend and was excited by talk of discovering the
   lost mine of the Phandelver's Pact in the nearby hills.
