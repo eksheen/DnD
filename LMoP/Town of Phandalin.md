@@ -138,6 +138,11 @@ She then offers the characters 100 gp to eliminate the Redbrand leader, whom the
 outlaws call Glasstaff, and bring her any correspondence found in the leader's
 quarters. 
 
+**Halia doesn't reveal that she wants to take over the Redbrand operation herself**
+A DC 15 wisdom check indicates she has ulterior motives for wanting the Redbrand 
+leader dead.
+
+
  ### Alderleaf Farm
  
  ### Shrine of Luck
