@@ -2,10 +2,10 @@
 
 ## Locations in Phandalin
 - [The Stone Hill Inn](#The-Stonehill-Inn)
-- [Barthen's Provisions](#Barthens-Provisions)
+- [Barthens Provisions](#Barthens-Provisions)
 - [Edermath Orchard](#Edermath-Orchard)
 - [Lionshield Coster](#Lionshield-Coster)
-- [Phandalin Miner's Exhange](#Phandalin-Miners-Exchange)
+- [Phandalin Miners Exhange](#Phandalin-Miners-Exchange)
 - [Alderleaf Farm](#Alderleaf-Farm)
 - [Shrine of Luck](#Shrine-of-Luck)
 - [The Sleeping Giant](#The-Sleeping-Giant)
@@ -280,5 +280,5 @@ Unknown to Sildar, larno created the Redbrands, installed himself as their leade
 
 
 
-### Tresnedar Manor
+### Tresendar Manor
 Go To &rightarrow; Redbrand Ruffians encounter
