@@ -16,7 +16,7 @@
 ## Components needed:
  - Wood for bow: wood of choice
  - bow string: Sinew from a Young blue dragon
- - Storm element of sorts: Make a deal with a djinni to gain the essence of an air elemental
+ - Storm element of sorts: Make a deal with a djinni to gain the essence of an elemental gem (blue sapphire)
 
 ## Process:
 1. Find recipe (Yet to be determined how)
