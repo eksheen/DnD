@@ -12,6 +12,8 @@
 - [Townmasters Hall](#Townmasters-Hall)
 - [Tresendar Manor](#Tresendar-Manor)
 
+Link to Flowchart: http://i.imgur.com/zF3pnJD.png
+
 
 ### The Stonehill Inn
 > In the In the center of town stands a large, newly
